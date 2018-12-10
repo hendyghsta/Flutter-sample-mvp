@@ -1,6 +1,6 @@
 # pdam
 
-A new Flutter project.
+A new Flutter project MVP.
 
 ## Getting Started
 
